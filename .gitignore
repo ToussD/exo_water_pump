@@ -1,6 +1,3 @@
-# Fichier secret - NE PAS PARTAGER
-data/test_labels_secret.csv
-
 # Python
 __pycache__/
 *.py[cod]
@@ -10,11 +7,11 @@ __pycache__/
 # Résultats d'évaluation
 results/
 
-# Soumissions des stagiaires
+# Soumissions
 *_soumission.csv
 ma_soumission.csv
 
-# Données originales (optionnel - déjà splittées)
+# Données originales (déjà splittées)
 data.csv
 target.csv
 
