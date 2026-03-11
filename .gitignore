@@ -1,19 +1,20 @@
+# Fichiers locaux (ne pas partager)
+README.md
+description.txt
+prepare_data.py
+data.csv
+target.csv
+
 # Python
 __pycache__/
 *.py[cod]
 *$py.class
 .ipynb_checkpoints/
 
-# Résultats d'évaluation
+# Résultats
 results/
-
-# Soumissions
 *_soumission.csv
 ma_soumission.csv
-
-# Données originales (déjà splittées)
-data.csv
-target.csv
 
 # OS
 .DS_Store
